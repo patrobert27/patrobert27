@@ -30,12 +30,28 @@ const patricia = {
   openTo: ["web projects", "frontend roles", "backend practice", "cool collaborations"]
 };
 ```
+I'm a web developer with knowledge of both frontend and backend development, mainly focused on building clean, useful, and maintainable web applications.
 
-Soy desarrolladora web con conocimientos en **frontend y backend**, enfocada principalmente en crear aplicaciones web limpias, útiles y mantenibles.
+I have worked on real-world projects, taking part in feature development, application maintenance, interface improvements, and connecting frontend applications with backend services.
 
-He trabajado en proyectos reales participando en el desarrollo de funcionalidades, mantenimiento de aplicaciones, mejora de interfaces y conexión entre frontend y backend.
+I enjoy learning by building real things, breaking the code a little, fixing it afterwards, and pretending it was all part of the plan. 😎
 
-Me gusta aprender construyendo cosas reales, romper un poco el código, arreglarlo después y fingir que todo formaba parte del plan. 😎
+---
+
+### PS: A little prank for your friends if they start coding
+
+Do you know what happens if someone enters `null` as their name in a form and you don’t validate it properly?
+
+And no, I don’t mean leaving the field empty. I mean literally typing the word `null`.
+
+**SURPRISE.** 🎉
+
+If your app saves that without validation, instead of having an actual empty or null value, you end up with a database full of fake `"null"` names.
+
+Then your friends will spend hours hunting bugs, thinking something is magically broken...
+
+But in reality, someone was just having fun with the keyboard. 😈
+
 
 ---
 
@@ -94,7 +110,7 @@ Me gusta aprender construyendo cosas reales, romper un poco el código, arreglar
     </td>
     <td width="50%">
       <h3>🏟️ Sports Event Manager</h3>
-      <p>Web application for managing sports events using JavaScript.</p>
+      <p>Web application for managing sports events using Node and React</p>
       <p>
         <a href="https://github.com/patrobert27/sports-event-manager">
           <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -153,10 +169,10 @@ Me gusta aprender construyendo cosas reales, romper un poco el código, arreglar
 
 ## 🎓 Education
 
-- **FP - Desarrollo de Aplicaciones Web**  
+- **Vocational Degree in Web Application Development**  
   INS Joaquim Mir · 2024 - 2026
 
-- **FP - Sistemas Microinformáticos y Redes**  
+- **Vocational Degree in Microcomputer Systems and Networks**  
   INS Joaquim Mir · 2022 - 2024
 
 - **Cisco Networking Essentials Certificate**  
